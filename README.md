@@ -18,3 +18,6 @@ Projects to connect Excel to SAP and automate repetitive tasks like fixed assets
   
 #RPA Extract Account Ledgers 2.0
   Extracts Journal Entries Reports for the selected accounts and periods from SAP along with SAP status bar messages
+
+#RPA LALUR 2.0
+  Extracts and formats journal entries and trial balance reports from SAP with period and cost centers parameters

@@ -21,3 +21,6 @@ Projects to connect Excel to SAP and automate repetitive tasks like fixed assets
 
 #RPA LALUR 2.0
   Extracts and formats journal entries and trial balance reports from SAP with period and cost centers parameters
+
+#Assets Write Off
+  Fixed assets write off automation in SAP 

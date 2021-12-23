@@ -15,3 +15,6 @@ Projects to connect Excel to SAP and automate repetitive tasks like fixed assets
 
 #Fixed Assets Mass Update 2.0
   Updates description, useful life and cost center fields in fixed assets master data in SAP
+  
+#RPA Extract Account Ledgers 2.0
+  Extracts Journal Entries Reports for the selected accounts and periods from SAP along with SAP status bar messages
